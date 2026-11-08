@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" role="img" aria-label="صورة المنتج غير متوفرة">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2=".4" y2="1">
+      <stop offset="0" stop-color="#faf4ec"/>
+      <stop offset="1" stop-color="#eddfcd"/>
+    </linearGradient>
+    <pattern id="dots" width="40" height="40" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#b5442e" opacity=".18"/>
+    </pattern>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)"/>
+  <rect width="600" height="800" fill="url(#dots)"/>
+  <path d="M110 700V330q0-170 190-170t190 170v370Z" fill="#fff" opacity=".55" stroke="#c19a3f" stroke-opacity=".45" stroke-width="2"/>
+  <path d="M138 700V340q0-148 162-148t162 148v360Z" fill="none" stroke="#b5442e" stroke-opacity=".18" stroke-width="1.5" stroke-dasharray="3 9"/>
+  <g fill="none" stroke="#b08e63" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".8">
+    <path d="M300 300v-44"/>
+    <path d="M300 256c-22 0-38 16-38 34 0 0 12-6 24-6 5 0 10 1 14 3 4-2 9-3 14-3 12 0 24 6 24 6 0-18-16-34-38-34Z"/>
+    <path d="M248 358c-12 26-18 60-18 96l-4 118c22 14 48 20 74 20s52-6 74-20l-4-118c0-36-6-70-18-96" stroke-dasharray="7 9" opacity=".55"/>
+  </g>
+  <path d="M270 290h60l14 22-44 34-44-34z" fill="none" stroke="#b08e63" stroke-width="2" opacity=".6"/>
+  <text x="300" y="690" text-anchor="middle" font-family="Tahoma, Arial, sans-serif" font-size="24" fill="#8d7458">صورة المنتج</text>
+</svg>

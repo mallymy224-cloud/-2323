@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" role="img" aria-label="لقطة مقربة لتطريز يدوي">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4a1526"/>
+      <stop offset="1" stop-color="#250b16"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f0d68e"/>
+      <stop offset="1" stop-color="#a97c2c"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)"/>
+  <g stroke="#d4a94f" stroke-opacity=".18" stroke-width="1" fill="none">
+    <path d="M0 100h600M0 200h600M0 300h600M0 400h600M0 500h600M0 600h600M0 700h600"/>
+    <path d="M100 0v800M200 0v800M300 0v800M400 0v800M500 0v800"/>
+  </g>
+  <g fill="none" stroke="url(#gold)" stroke-width="3">
+    <path d="M300 90c70 70 110 160 110 250 0 120-50 210-110 270-60-60-110-150-110-270 0-90 40-180 110-250Z"/>
+    <path d="M300 150v460M210 350h180"/>
+  </g>
+  <g fill="url(#gold)" opacity=".9">
+    <circle cx="300" cy="120" r="9"/><circle cx="300" cy="240" r="7"/>
+    <circle cx="300" cy="350" r="11"/><circle cx="300" cy="470" r="7"/>
+    <circle cx="300" cy="580" r="9"/>
+    <circle cx="215" cy="290" r="6"/><circle cx="385" cy="290" r="6"/>
+    <circle cx="230" cy="410" r="6"/><circle cx="370" cy="410" r="6"/>
+  </g>
+  <g fill="none" stroke="#e8c979" stroke-width="2" opacity=".7">
+    <path d="M120 620c80-30 160-30 240 0s120 30 160 0"/>
+    <path d="M120 660c80-30 160-30 240 0s120 30 160 0"/>
+    <path d="M120 700c80-30 160-30 240 0s120 30 160 0"/>
+  </g>
+  <text x="300" y="762" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="3" fill="#c19a3f" opacity=".8">DÉTAIL · تطريز</text>
+</svg>

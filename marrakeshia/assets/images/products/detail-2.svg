@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" role="img" aria-label="لقطة مقربة لقماش طبيعي">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f3e6d5"/>
+      <stop offset="1" stop-color="#d8bf9f"/>
+    </linearGradient>
+    <linearGradient id="fold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#e9d6bd"/>
+      <stop offset=".45" stop-color="#fff8ee"/>
+      <stop offset="1" stop-color="#c9ad8a"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#bg)"/>
+  <g fill="url(#fold)" stroke="#b99a76" stroke-opacity=".35" stroke-width="1.5">
+    <path d="M-40 0c120 90 150 220 110 360s-30 280 40 440H120C60 640 40 500 70 360S110 120 -40 0Z"/>
+    <path d="M120 0c120 90 150 220 110 360s-30 280 40 440H320C260 640 240 500 270 360S310 120 160 0Z"/>
+    <path d="M300 0c120 90 150 220 110 360s-30 280 40 440H500C440 640 420 500 450 360S490 120 340 0Z"/>
+    <path d="M470 0c120 90 150 220 110 360s-30 280 40 440h-80c-60-160-80-300-50-440S520 120 470 0Z"/>
+  </g>
+  <g fill="none" stroke="#a98456" stroke-opacity=".35" stroke-width="1">
+    <path d="M0 200h600M0 400h600M0 600h600"/>
+  </g>
+  <g fill="#fff" opacity=".35">
+    <circle cx="90" cy="120" r="3"/><circle cx="250" cy="300" r="3"/>
+    <circle cx="410" cy="180" r="3"/><circle cx="520" cy="520" r="3"/>
+    <circle cx="160" cy="650" r="3"/><circle cx="330" cy="700" r="3"/>
+  </g>
+  <text x="300" y="762" text-anchor="middle" font-family="Georgia, serif" font-size="15" letter-spacing="3" fill="#9c7c56" opacity=".85">TISSU · قماش</text>
+</svg>
